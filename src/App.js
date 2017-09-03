@@ -5,11 +5,9 @@ import Calculator from './calculatorLogic';
 class App extends Component {
   render() {
     return (
-
       <div>
-      <Calculator />
+        <Calculator />
       </div>
-
     );
   }
 }
